@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<gallery frameColor="0xFFFFFF" frameWidth="15" imagePadding="20" displayTime="6" enableRightClickOpen="true">
+<gallery frameColor="0xFFFFFF" frameWidth="0" imagePadding="20" displayTime="6" enableRightClickOpen="false">
 <image>
    <url>rcs/img/wide.jpg</url>
    <caption><![CDATA[<font size="50">Example Gallery</font><br>An example large format <u><a href="http://www.airtightinteractive.com/projects/autoviewer">AutoViewer</a></u> gallery.]]></caption>
